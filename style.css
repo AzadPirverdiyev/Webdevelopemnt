@@ -414,6 +414,7 @@ body{
 	}
 	.header {
 		padding: 10px 0;
+		border-bottom:solid black 1px
 	}
 	.hamburger {
 		display: block;
@@ -540,4 +541,5 @@ body{
 	.words-part h3{
 		display: none !important;
 	}
+	border-bottom:solid black 1px
 }
